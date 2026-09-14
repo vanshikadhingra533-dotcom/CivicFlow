@@ -4,6 +4,10 @@ CivicFlow is an AI-powered civic issue management platform that helps citizens r
 
 It combines structured civic analysis with the **Strands Agents SDK** and a local **Ollama AI model** to generate clear explanations for each decision.
 
+## 🏗️ System Architecture
+
+![CivicFlow System Architecture](architecture.png)
+
 ---
 
 ## 🚀 Problem
